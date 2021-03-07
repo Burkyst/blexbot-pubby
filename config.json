@@ -1,0 +1,15 @@
+{
+    "room": "blex",
+    "auth": {
+      "clientId": "200556ce-ea19-4cac-ae49-3559a0d03572",
+      "secret": "830d2bd6cd98ac8fdc6a8d0c6becca8f7bf80b61e41ac4e99bc2aa5bc5e6fdaa"
+    },
+    "commands": {
+      "prefix": "!"
+    },
+    "disconnect": {
+      "maxTime": 60,
+      "clearInterval": 1000
+    }
+  }
+  
